@@ -1,0 +1,22 @@
+Built a Cinematic Multi-Agent AI Website Builder 🚀
+
+I created Aegis AI, a multi-agent website builder that converts a natural-language request into a downloadable working website.
+
+The application includes eight specialized agents for coordination, research, planning, security, development, analysis, and UI design. The backend uses FastAPI and Gemini API, while the frontend is built with React, TypeScript, and Vite.
+
+Key features:
+✅ Cinematic AI command-center interface
+✅ Multi-agent collaboration workflow
+✅ Universal website-type detection
+✅ Downloadable HTML, CSS, and JavaScript ZIP output
+✅ Gemini retry and fallback support
+✅ Offline fallback demo mode
+
+Example request:
+“Create a modern portfolio website for a B.Tech AIML student with Home, About, Skills, Projects, and Contact sections.”
+
+Tech stack: React | TypeScript | Vite | Python | FastAPI | Gemini API
+
+GitHub: ADD_YOUR_GITHUB_REPOSITORY_LINK
+
+#AI #WebDevelopment #ReactJS #TypeScript #Python #FastAPI #GeminiAPI #AIAgents #StudentProject #Portfolio

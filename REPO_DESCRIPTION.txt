@@ -1,0 +1,20 @@
+Repository name:
+aegis-ai-universal-website-builder
+
+GitHub description:
+A cinematic multi-agent AI website builder using React, TypeScript, FastAPI and Gemini API. Generate downloadable HTML, CSS and JavaScript websites from natural-language requests.
+
+Suggested GitHub topics:
+react
+typescript
+fastapi
+python
+gemini-api
+ai-agents
+multi-agent-system
+website-builder
+vite
+portfolio-project
+
+Suggested About website field after deployment:
+Add your deployed frontend URL here.

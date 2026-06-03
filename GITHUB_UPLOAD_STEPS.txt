@@ -1,0 +1,22 @@
+GITHUB UPLOAD STEPS — EASY WINDOWS METHOD
+
+1. Extract the ZIP file.
+2. Open github.com and sign in.
+3. Click the + icon in the top-right corner.
+4. Choose New repository.
+5. Repository name: aegis-ai-universal-website-builder
+6. Paste the description from REPO_DESCRIPTION.txt.
+7. Choose Public.
+8. Do NOT select Add a README because the project already includes one.
+9. Click Create repository.
+10. On the next page, click “uploading an existing file”.
+11. Drag and drop all files and folders INSIDE the extracted project folder.
+12. Confirm that backend/.env is NOT present in the uploaded list.
+13. Confirm that frontend/node_modules and backend/venv are NOT present.
+14. Add commit message: Initial commit - Aegis AI universal website builder
+15. Click Commit changes.
+
+IMPORTANT:
+- Upload backend/.env.example only.
+- Never upload backend/.env.
+- Never paste an API key into README, code, screenshots, GitHub issues, or LinkedIn posts.
